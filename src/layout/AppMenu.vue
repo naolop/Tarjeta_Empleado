@@ -22,6 +22,10 @@ const model = ref([
                 icon: 'pi pi-fw pi-id-card',
                 to: '/uikit/formlayout'
             },
+            { 
+                label: 'Punto de Venta',
+                icon: 'pi pi-fw pi-shopping-cart', 
+                to: '/pages/pos' },
             {
                 label: 'Input',
                 icon: 'pi pi-fw pi-check-square',
